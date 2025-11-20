@@ -122,4 +122,4 @@ Error: "Network Error" -> Ensure your backend server is running on port 5000.
 
 👨‍💻 Author
 
-Built with ❤️ by [Your Name].
+Built with ❤️ by Subham Singh.
